@@ -1,10 +1,6 @@
-### 你好，世界 👋
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-
-
-
+<div style="display: flex; align-items: center; flex-direction: row-reverse; gap: 100px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FengheTan9&show_icons=true&theme=radical" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&duration=2000&pause=200&color=9166E4&background=FFFFFFE0&multiline=true&width=500&height=150&lines=My+name+is+Fenghe+Tang%2C+focusing+on+MIA;Looking+forward+to+collaborators;Feel+free+to+concat+me" alt="Typing SVG" />
+    </a>
+</div>
